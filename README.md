@@ -51,12 +51,10 @@ App.js
 ## How It Works
 - The **HomeScreen** displays the list of places.
 - ![image](https://github.com/user-attachments/assets/1ba12b18-d1d5-486d-918a-1650143c62b3)
-- ![image](https://github.com/user-attachments/assets/4d9e4ac4-a708-4cbd-8152-a894934bede5)
-- ![image](https://github.com/user-attachments/assets/e82772d6-f751-4fc1-8116-3a79fcbf8e83)
-
-
 
 - The **AddEditPlaceScreen** allows adding or editing places.
+- ![image](https://github.com/user-attachments/assets/4d9e4ac4-a708-4cbd-8152-a894934bede5)
+- ![image](https://github.com/user-attachments/assets/e82772d6-f751-4fc1-8116-3a79fcbf8e83)
 - The **PlacesContext** manages state across the app.
 - The **AppNavigator** handles screen navigation.
 
